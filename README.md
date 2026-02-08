@@ -23,7 +23,7 @@ The project is organized by chapters to make navigation easy:
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/dar3/head-first-java](https://github.com/dar3/head-first-java)
+   git clone https://github.com/dar3/head-first-java.git
    ```
 2. Open the selected chapter folder in your IDE.
 3. Locate the class containing the main method and run it.
