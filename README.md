@@ -17,7 +17,7 @@ The project is organized by chapters to make navigation easy:
 * `ch04-methods-instance-variables/` – Behavior and state.
 
 ## Tech Stack
-* **Language:** Java 21 LTS
+* **Language:** Java 25
 * **IDE:** IntelliJ IDEA
 
 ## 💻 How to Run
