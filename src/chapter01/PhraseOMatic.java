@@ -15,10 +15,10 @@ public class PhraseOMatic {
         int twoLength = wordListTwo.length;
         int threeLength = wordListThree.length;
 
-
-        System.out.println("Array 1: " + oneLength);
-        System.out.println("Array 2: " + twoLength);
-        System.out.println("Array 3: " + threeLength);
+        // For the test
+//      System.out.println("Array 1: " + oneLength);
+//      System.out.println("Array 2: " + twoLength);
+//      System.out.println("Array 3: " + threeLength);
 
 
         // generate three random numbers
@@ -27,9 +27,9 @@ public class PhraseOMatic {
         int rand3 = (int) (Math.random() * threeLength);
 
         // For the test
-        System.out.println("Random 1: " + rand1);
-        System.out.println("Random 2: " + rand2);
-        System.out.println("Random 3: " + rand3);
+//      System.out.println("Random 1: " + rand1);
+//      System.out.println("Random 2: " + rand2);
+//      System.out.println("Random 3: " + rand3);
 
 
         // now build a phrase
