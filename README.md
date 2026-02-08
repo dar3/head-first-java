@@ -20,7 +20,7 @@ The project is organized by chapters to make navigation easy:
 * **Language:** Java 23
 * **IDE:** IntelliJ IDEA
 
-## 💻 How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/dar3/head-first-java.git
