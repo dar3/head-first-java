@@ -1,6 +1,6 @@
 # Head First Java – Solutions & Study Notes
 
-This repository contains my personal solutions to exercises, code examples from the book **"Head First Java 2nd Edition (3rd Edition from chapter 3)"** by Kathy Sierra and Bert Bates.
+This repository contains my personal solutions to exercises, code examples from the book **"Head First Java 2nd Edition (3rd Edition starting from chapter 3)"** by Kathy Sierra and Bert Bates.
 
 ## Purpose
 The goal of this project is to master the fundamentals of Java and Object-Oriented Programming (OOP), including:
