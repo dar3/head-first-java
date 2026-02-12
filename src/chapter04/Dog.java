@@ -13,4 +13,11 @@ public class Dog {
             System.out.println("Yip! Yip!");
         }
     }
+
+    void barkAmount(int numOfBarks){
+        while (numOfBarks > 0){
+            System.out.println("ruff");
+            numOfBarks--;
+        }
+    }
 }

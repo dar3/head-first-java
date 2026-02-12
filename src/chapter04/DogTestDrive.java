@@ -13,6 +13,8 @@ public class DogTestDrive {
         one.bark();
         two.bark();
         three.bark();
+
+        three.barkAmount(4);
     }
 
 }
