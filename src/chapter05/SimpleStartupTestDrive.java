@@ -7,6 +7,8 @@ public class SimpleStartupTestDrive {
         SimpleStartup dot = new SimpleStartup();
 
         int[] locations = {2,3,4};
+//        here we call setLocationCells to tell our program
+//        which cells are occupied
         dot.setLocationCells(locations);
 
         int userGuess = 2;
