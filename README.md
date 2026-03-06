@@ -11,10 +11,18 @@ The goal of this project is to master the fundamentals of Java and Object-Orient
 
 ## Repository Structure
 The project is organized by chapters to make navigation easy:
-* `ch01-introduction/` – Basics, loops, and conditional logic.
-* `ch02-classes-objects/` – Creating first objects and classes.
-* `ch03-primitives-references/` – Variables and memory references.
-* `ch04-methods-instance-variables/` – Behavior and state.
+* `chapter01-introduction/` – Basics, loops, and conditional logic.
+* `chapter02-classes-objects/` – Creating first objects and classes.
+* `chapter03-primitives-references/` – Variables and memory references.
+* `chapter04-methods-instance-variables/` – Behavior and state.
+* `chapter05` – Complete Java app.
+* `chapter06` – Using Java API.
+* `chapter07` - Inheritance and polymorphism.
+* `chapter08` - Interfaces and abstract classes.
+* `chapter09` - Constructors and GC.
+* `chapter10` - Numbers and statics.
+
+
 
 ## Tech Stack
 * **Language:** Java 23
