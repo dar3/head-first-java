@@ -1,4 +1,10 @@
 package chapter07;
 
-public class Hippo {
+public class Hippo extends Animal{
+
+    @Override
+    void makeNoise(){}
+
+    @Override
+    void eat(){}
 }

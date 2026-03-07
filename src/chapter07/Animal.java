@@ -6,7 +6,7 @@ public class Animal {
     String food;
     int hunger;
     int boundaries;
-    String location;
+    Double location;
 
     void makeNoise(){}
     void eat(){}
